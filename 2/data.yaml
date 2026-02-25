@@ -1,0 +1,22 @@
+# 数据集所在的根目录 (注意使用正斜杠)
+path: C:/Users/Guohu/Desktop/1/2
+
+# 验证集图像的相对路径
+train: val/images
+val: val/images
+
+# 模型所有的类别
+names:
+  0: person
+  1: car
+  2: plane
+  3: boat
+  4: building
+  5: smoke
+  6: fire
+  7: sheep
+  8: cattle
+  9: kiang
+  10: zebra
+  11: plasticwaste
+  12: extinguisher
